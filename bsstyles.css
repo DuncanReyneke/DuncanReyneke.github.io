@@ -10120,6 +10120,10 @@ header.masthead h1 {
   color: rgba(255, 255, 255, 0.75);
 }
 
+#portimg {
+max-width: 100%;
+}
+
 #test:hover img {
     transform: scale(1.1);
 }
