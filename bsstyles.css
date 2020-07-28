@@ -10121,10 +10121,7 @@ header.masthead h1 {
 }
 
 .portfolio-box {
-position: relative;
-  margin: auto;
   overflow: hidden;
-  width: 540px;
 }
 
 .portfolio-box img {
