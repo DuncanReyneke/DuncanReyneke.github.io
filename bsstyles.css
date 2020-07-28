@@ -10120,11 +10120,19 @@ header.masthead h1 {
   color: rgba(255, 255, 255, 0.75);
 }
 
+.portfolio-box {
+position: relative;
+  margin: auto;
+  overflow: hidden;
+  width: 540px;
+}
+
 .portfolio-box img {
 width: 100%;
   height: auto;
 transition: all 0.3s;
-transform: scale(1);  
+transform: scale(1);
+  display: block;
 }
 
 .portfolio-box:hover img {
