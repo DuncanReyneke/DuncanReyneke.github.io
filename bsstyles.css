@@ -10120,7 +10120,7 @@ header.masthead h1 {
   color: rgba(255, 255, 255, 0.75);
 }
 
-#portimg:hover {
+.portfolio-box:hover {
   -ms-transform: scale(1.5);
   -webkit-transform: scale(1.5);
   transform: scale(1.5);
